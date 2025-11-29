@@ -18,7 +18,7 @@ I'm an aspiring Data Scientist and Engineer based in Poland, passionately buildi
 #### 📊 My Current Focus:
 * 🧠 Deepening knowledge in **Data Analysis** (Pandas/Matplotlib).
 * 🤖 Starting with **Machine Learning** models on Kaggle.
-* 🇯🇵 Intensive **Japanese** language studies (N5/N4 level).
+* 🎌 Intensive **Japanese** language studies (N5/N4 level).
 
 ---
 
