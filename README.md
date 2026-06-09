@@ -6,15 +6,6 @@
 
 </div>
 
-## 🤖 About Me
-
-- ⚙️ **Automation Engineer** — I turn repetitive work into reliable, hands-off pipelines
-- 🧠 **AI-driven** — I build and work with AI-powered workflows and tooling every day
-- 📊 Data wrangling with **Python + Pandas**, persistence with **PostgreSQL**
-- 🌍 Based in Poland 🇵🇱 — open to remote work
-- 🌱 Currently leveling up: Python / Italian
-- 📫 Reach me on Discord: `monaco5252`
-
 ## 🛠️ Tech Stack
 
 <div align="center">
