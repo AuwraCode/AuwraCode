@@ -6,8 +6,6 @@
 
 </div>
 
-## 🛠️ Tech Stack
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,11 +19,9 @@
 
 </div>
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AuwraCode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=AuwraCode&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuwraCode&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="Top languages" />
 
 </div>
