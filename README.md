@@ -21,8 +21,18 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AuwraCode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuwraCode&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="Top languages" />
+<img src="https://streak-stats.demolab.com?user=AuwraCode&theme=tokyonight&hide_border=true&background=00000000&hide_longest_streak=true" height="180" alt="GitHub streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuwraCode&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" height="180" alt="Most used languages" />
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AuwraCode/AuwraCode/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AuwraCode/AuwraCode/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/AuwraCode/AuwraCode/output/github-snake.svg" />
+</picture>
 
 </div>
 
